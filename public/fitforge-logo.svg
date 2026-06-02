@@ -1,0 +1,7 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="28" fill="#070A12"/>
+  <path d="M31 45h14v30H31V45Zm44 0h14v30H75V45ZM45 54h30v12H45V54Z" fill="#B7FF17"/>
+  <path d="M20 51h11v18H20V51Zm69 0h11v18H89V51Z" fill="#00D9FF"/>
+  <text x="145" y="72" fill="#070A12" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="900" letter-spacing="1">Fit</text>
+  <text x="218" y="72" fill="#7CCB00" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="900" letter-spacing="1">Forge</text>
+</svg>
